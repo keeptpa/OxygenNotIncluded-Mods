@@ -10,3 +10,5 @@ Q2.存档是旧存档，还是新存档（如果未加载存档就崩溃则无�
 
 
 4.错误报告信息（如黑洞报告的截图，若能提供) Are there any info given by the game? Such like message of "Black Hole", Could I have a pic about it?
+
+5.用的是Windows还是MacOS? 或者你是个Linux派? Using Win, Mac, or Linux?
